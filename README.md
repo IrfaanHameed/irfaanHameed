@@ -3,7 +3,7 @@
 </p>
 <h1 align="center" style="font-weight:100;">Hi 👋, I'm Mohamed Irfaan Hameed M</h1>
 <h3 align="center">Aspiring Software Developer | Passionate about creating innovative solutions through coding.</h3><br/>
-<img align="right" src="https://csccouncil.org/assets/img/team/cmmc.gif" alt="" style="height:300px;width:500px;object-fit:contain;" />
+<img align="right" src="https://th.bing.com/th/id/OIP.cxhF9dw1E3WZoj3D0dY1mwAAAA?rs=1&pid=ImgDetMain" alt="" width="400"/>
 
 
 
