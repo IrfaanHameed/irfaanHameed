@@ -1,13 +1,13 @@
 <h1 align="center" style="font-weight:100;">Hi 👋, I'm Mohamed Irfaan Hameed M</h1>
-<h3 align="center">Aspiring Software Developer | Passionate about creating innovative solutions through coding.</h3><br/>
+<h3 align="center">Aspiring  Full Stack Developer | Passionate about creating innovative solutions through coding.</h3><br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfaanhameed&label=Profile%20views&color=0e75b6&style=flat" alt="irfaanhameed" /> </p>
 - 🔭 I’m currently working on **Videofy**
 
-- 🌱 I’m currently learning **AWS , Docker , GCP**
+- 🌱 I’m currently learning **AWS**
 
-- 💬 Ask me about **django , python , fastapi , flask**
+- 💬 Ask me about **django , python , fastapi , flask , React , Javascript , java**
 
 - 📫 How to reach me **irfaanm857@gmail.com**
 
