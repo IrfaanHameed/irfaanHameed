@@ -1,5 +1,5 @@
 <h1 align="center" style="font-weight:100;">Hi 👋, I'm Mohamed Irfaan Hameed M</h1>
-<h3 align="center">Aspiring  Full Stack Developer | Passionate about creating innovative solutions through coding.</h3><br/>
+<h3 align="center">Aspiring  Software Developer | Passionate about creating innovative solutions through coding.</h3><br/>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irfaanhameed&label=Profile%20views&color=0e75b6&style=flat" alt="irfaanhameed" /> </p>
