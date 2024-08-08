@@ -23,6 +23,15 @@
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="80" height="80"/>
   </a> 
+    <a href="https://spacy.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/github/explore/8cf1837393d83900e767cc895dcc814d053e2ffe/topics/spacy/spacy.png" alt="spacy" width="80" height="80"/>
+  </a> 
+   <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.devopsschool.com/blog/wp-content/uploads/2022/03/openCV.png" alt="opencv" width="100" height="80"/>
+  </a> 
+   <a href="https://" target="_blank" rel="noreferrer">
+    <img src="https://1.bp.blogspot.com/-vdUyzsnJ6mY/X60WDRF2ZoI/AAAAAAAADgI/rCElyJ_9yJgiFiKAiFRtcF8c63hSr6PVgCLcBGAsYHQ/w1200-h630-p-k-no-nu/1200px-Scikit_learn_logo_small.svg.png" alt="angular" width="100" height="80"/>
+  </a> 
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://miro.medium.com/v2/resize:fit:500/1*wXhdUKkpJUQZ-kqtBWCwWA.png" alt="bootstrap" width="80" height="80"/>
   </a>
