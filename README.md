@@ -1,3 +1,5 @@
+<img src="https://www.wallpaperflare.com/static/835/299/811/simple-background-quote-minimalism-text-wallpaper.jpg" alt="django" style="object-fit:contain;height:80%width:100%;" />
+
 <h1 align="center" style="font-weight:100;">Hi 👋, I'm Mohamed Irfaan Hameed M</h1>
 <h3 align="center">Aspiring  Software Developer | Passionate about creating innovative solutions through coding.</h3><br/>
 
