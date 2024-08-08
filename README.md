@@ -1,4 +1,4 @@
-<img src="https://www.wallpaperflare.com/static/835/299/811/simple-background-quote-minimalism-text-wallpaper.jpg" alt="django" style="object-fit:contain;height:80%width:100%;" />
+<img src="https://th.bing.com/th/id/R.8548c0a6ac1c887cac83a9a41712cde5?rik=zyg9WKBdHJH2lg&riu=http%3a%2f%2finclem.net%2fmedia%2fkivy_text_tutorials%2f02_output.png&ehk=DOHUCZcAfTvk7Da8ivcmakE7FK3pDLASH8PjgtUEe2g%3d&risl=&pid=ImgRaw&r=0" alt="django" style="object-fit:contain;height:60vh;width:100%;" />
 
 <h1 align="center" style="font-weight:100;">Hi 👋, I'm Mohamed Irfaan Hameed M</h1>
 <h3 align="center">Aspiring  Software Developer | Passionate about creating innovative solutions through coding.</h3><br/>
